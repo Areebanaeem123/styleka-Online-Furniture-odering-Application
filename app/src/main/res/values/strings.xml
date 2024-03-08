@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODOLISTAPP</string>
+    <string name="enter_username">Enter Username..</string>
+    <string name="log_in">Log In</string>
+</resources>
